@@ -1,51 +1,22 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# 📰 A Revolução da IA no Segmento Bancário!
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+As IAs estão revolucionando o mercado finaceiro e transformando a realção de uso e consumo das pessoas no segmento bancário.
+Este Ebook conta um pouco sobre o uso crescente das IAs neste setor, seus impactos, benefícios, desafios e futuro.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Foram usados para o desenvolvimento deste projeto as seguintes ferramentas:
+ChatGPT-4o - para o desenvolvimento do tema, conteúdo e algumas imagens.
+Gamma.app - para o desenvolvimento da apresentação final.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pedi ao ChatGPT para elaborar um Ebook com tópicos e imagens sobre o uso crescente das IAS pelo segmento bancário.
+Em seguida selecionei um template no Gamma.app e inseri o conteúdo básico com os tópicos gerados pelo GPT, assim o corpo principal do Ebook foi criado.
+Fiz algumas complementações e alterações no conteúdo, inseri imagens geradas no GPT e algumas usei do próprio Gamma.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://gamma.app/docs/uo9jt7a1l10i4lc?following_id=gmn5igzyn0h7u0m&follow_on_start=true
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Como primeiro projeto aproveitei para explorar as ferramentas de IA que utilizei. Perdi um bom tempo testando, criando e recriando o conteúdo, principalmente no Gamma.
+As ferramentas estimulam a criatividade, contribuem na exploração e construção de ideias. 
